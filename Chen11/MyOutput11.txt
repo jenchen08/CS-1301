@@ -1,0 +1,30 @@
+ time1 Original values: Hour: 10 Minute: 19 Second: 10
+ time2 Original values: Hour: 10 Minute: 19 Second: 10
+ Added values:
+ Hour + 0 Minute + 0 Second + 1 
+
+ Hour: 10 Minute: 19 Second: 11
+ Added values:
+ Hour + 0 Minute + 1 Second + 0 
+
+ Hour: 10 Minute: 20 Second: 11
+ Added values:
+ Hour + 1 Minute + 0 Second + 0 
+
+ Hour: 11 Minute: 20 Second: 11
+ Added values:
+ Hour + 0 Minute + 0 Second + 13 
+
+ Hour: 11 Minute: 20 Second: 24
+ Added values:
+ Hour + 0 Minute + 50 Second + 0 
+
+ Hour: 12 Minute: 10 Second: 24
+ Added values:
+ Hour + 13 Minute + 0 Second + 0 
+
+ Hour: 1 Minute: 10 Second: 24
+ Added values:
+ Hour + 10 Minute + 50 Second + 13 
+
+ Hour: 12 Minute: 0 Second: 37

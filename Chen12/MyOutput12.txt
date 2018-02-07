@@ -1,0 +1,46 @@
+----------------------------------
+Welcome to the coin slot simulator!
+Enter any number to begin (enter -1 to exit):	1
+Enter dollar amount:	10
+
+Cherries	Plums	Bars	
+Sorry. Good luck next time
+You won $0.00.
+----------------------------------
+
+----------------------------------
+Enter any number to try again (enter -1 to exit):	1
+Enter dollar amount:	10
+
+Bells	Cherries	Bells	
+We have a winner!!!
+You won $20.00!
+----------------------------------
+
+----------------------------------
+Enter any number to try again (enter -1 to exit):	1
+Enter dollar amount:	10
+
+Bars	Cherries	Melons	
+Sorry. Good luck next time
+You won $0.00.
+----------------------------------
+
+----------------------------------
+Enter any number to try again (enter -1 to exit):	1
+Enter dollar amount:	10
+
+Cherries	Cherries	Cherries	
+We have a winner!!!
+You won $30.00!
+----------------------------------
+
+----------------------------------
+Enter any number to try again (enter -1 to exit):	-1
+
+----------------------------------
+Amount entered:		$40.00               
+Amount won:		$50.00                    
+Number of wins:		2         
+Number of losses:	2         
+----------------------------------

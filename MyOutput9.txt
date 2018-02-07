@@ -1,0 +1,22 @@
+*******************************************************************
+Team Number:                  2                             
+Team Member 1:                Chuck Millsap                 
+Team Member 2:                Jenny Chen                    
+Course:                       CS 1301 B                     
+
+Date:                         Wed Mar 22 18:41:48 EDT 2017  
+
+*******************************************************************
+Number of Tokens:             19                            
+Longest Token:                -1234.567.3456                
+Shortest Token:               CS                            
+Number of digits:             37                            
+Number of uppercase letters:  17                            
+Number of lowercase letters:  43                            
+Number of other characters:   12                            
+List of other characters:     -.+.-..--?!!                  
+
+*******************************************************************
+
+Number of numeric tokens:     8                             
+Number of alphabetic tokens:  13                            

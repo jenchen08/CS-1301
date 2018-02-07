@@ -1,0 +1,132 @@
+
+//Original text file
+
+CS 1301
+10/20/2015
+Fares
+
+Java Software Solutions teaches a foundation of programming techniques to foster
+well-designed object-oriented software. Heralded for its integration of small
+and large realistic examples, this worldwide best-selling text emphasizes 
+building solid problem-solving and design skills to write high-quality programs.
+
+CS1301AB  Fall-2015  
+Test3 is scheduled for Thursday, 11/12/2015
+Have a good day.
+
+10  20  2015	
+
+//Sample output of first text file
+
+	1	CS 1301
+		1	CS
+		2	1301
+
+	2	10/20/2015
+		1	10/20/2015
+
+	3	Fares
+		1	Fares
+
+	4	
+
+	5	Java Software Solutions teaches a foundation of programming techniques to foster
+		1	Java
+		2	Software
+		3	Solutions
+		4	teaches
+		5	a
+		6	foundation
+		7	of
+		8	programming
+		9	techniques
+		10	to
+		11	foster
+
+	6	well-designed object-oriented software. Heralded for its integration of small
+		1	well-designed
+		2	object-oriented
+		3	software.
+		4	Heralded
+		5	for
+		6	its
+		7	integration
+		8	of
+		9	small
+
+	7	and large realistic examples, this worldwide best-selling text emphasizes 
+		1	and
+		2	large
+		3	realistic
+		4	examples,
+		5	this
+		6	worldwide
+		7	best-selling
+		8	text
+		9	emphasizes
+
+	8	building solid problem-solving and design skills to write high-quality programs.
+		1	building
+		2	solid
+		3	problem-solving
+		4	and
+		5	design
+		6	skills
+		7	to
+		8	write
+		9	high-quality
+		10	programs.
+
+	9	
+
+	10	CS1301AB  Fall-2015  
+		1	CS1301AB
+		2	Fall-2015
+
+	11	Test3 is scheduled for Thursday, 11/12/2015
+		1	Test3
+		2	is
+		3	scheduled
+		4	for
+		5	Thursday,
+		6	11/12/2015
+
+	12	Have a good day.
+		1	Have
+		2	a
+		3	good
+		4	day.
+
+	13	
+
+	14	10  20  2015
+		1	10
+		2	20
+		3	2015
+
+//Original Text Integer file
+Blake 66
+Anthony             43
+Elaina     21
+Jarell             77
+Marsallis          81
+Hampton       93
+Robert 61
+Andrew            90
+Cameron          100
+Jay         30
+
+//Sample output
+
+	1	Blake	66
+	2	Anthony	43
+	3	Elaina	21
+	4	Jarell	77
+	5	Marsallis	81
+	6	Hampton	93
+	7	Robert	61
+	8	Andrew	90
+	9	Cameron	100
+	10	Jay	30
+
+	The average score is:	66.2

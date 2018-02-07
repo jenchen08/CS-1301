@@ -1,0 +1,76 @@
+	Course Name:      	CS1301
+	Instructor's Name:	Fares
+	Semester:         	Spring
+	Year:             	2016
+	School Name:      	Valdosta State University
+
+Number  Name      Test1     Test2     Total       Grade	
+ 0      Nicholas    20        30        50        F              	
+ 1      Lebron      90        95        185       A              	
+ 2      Justyn      15        25        40        F              	
+ 3      Bilal       60        65        125       D              	
+ 4      Jamel       75        76        151       C              	
+ 5      Brooks      82        85        167       B              	
+ 6      Matthew     62        62        124       D              	
+ 7      Jonathan    95        96        191       A              	
+ 8      Yalanda     87        86        173       B              	
+ 9      Raven       77        78        155       C              	
+ 10     Zachary     65        66        131       D              	
+ 11     Michael     81        84        165       B              	
+ 12     Charles     97        96        193       A              	
+ 13     Edward      88        87        175       B              	
+ 14     Zebedee     55        56        111       F              	
+ 15     Giovanni    73        75        148       C              	
+ 16     April       12        22        34        F              	
+ 17     Nicholas    100       100       200       A              	
+ 18     Joseph      84        85        169       B              	
+ 19     Giacomo     76        77        153       C              
+
+AVERAGES:        69.70        72.30
+
+	Student with lowest average:
+	 April     12         22         34       F
+	
+	Student with highest average:
+	Nicholas   100       100        200       A
+
+	Course Name:      	CS1302
+	Instructor's Name:	Fares
+	Semester:         	Fall
+	Year:             	2016
+	School Name:      	Valdosta State University
+
+Number  Name      Test1     Test2     Test3     Total       Grade	
+ 0      Nicholas    20        30        40        90        F              	
+ 1      Lebron      90        95        100       285       A              	
+ 2      Justyn      15        25        55        95        F              	
+ 3      Bilal       60        65        69        194       D              	
+ 4      Jamel       75        76        79        230       C              	
+ 5      Brooks      82        85        88        255       B              	
+ 6      Matthew     62        62        62        186       D              	
+ 7      Jonathan    95        96        97        288       A              	
+ 8      Yalanda     87        86        85        258       B              	
+ 9      Raven       77        78        79        234       C              	
+ 10     Zachary     65        66        67        198       D              	
+ 11     Michael     81        84        86        251       B              	
+ 12     Charles     97        96        95        288       A              	
+ 13     Edward      88        87        81        256       B              	
+ 14     Zebedee     55        56        59        170       F              	
+ 15     Giovanni    73        75        77        225       C              	
+ 16     April       12        22        42        76        F              	
+ 17     Nicholas    100       100       100       300       A              	
+ 18     Joseph      84        85        86        255       B              	
+ 19     Giacomo     76        77        78        231       C              	
+ 20     Robert      83        84        89        256       B              	
+ 21     Patrick     71        76        79        226       C              	
+ 22     John        45        41        40        126       F              	
+ 23     Thomas      5         10        7         22        F              	
+ 24     Timothy     78        78        78        234       C              
+
+AVERAGES:        67.04        69.40     72.72
+
+	Student with lowest average:
+	Thomas     5         10         7         22       F
+	
+	Student with highest average:
+	Nicholas   100       100       100        300       A

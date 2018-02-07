@@ -1,0 +1,36 @@
+	Name:                	Unknown
+	Account Number:      	99999
+	Original Balance:    	$0.00
+	Total Deposits:      	$0.00
+	Total Withdrawals:   	$0.00
+	Current Balance:     	$0.00
+	Date Created:        	Mon Feb 20 21:00:01 EST 2017
+
+	Name:                	John Smith
+	Account Number:      	123456
+	Original Balance:    	$1,000.00
+	Total Deposits:      	$0.00
+	Total Withdrawals:   	$0.00
+	Current Balance:     	$1,000.00
+	Date Created:        	Mon Feb 20 21:00:01 EST 2017
+
+
+	Account2 owner's name:    	John Smith
+
+	Account2 Current Balance: 	1000.0
+
+	Name:                	Kira Jones
+	Account Number:      	654321
+	Original Balance:    	$0.00
+	Total Deposits:      	$500.00
+	Total Withdrawals:   	$40.00
+	Current Balance:     	$460.00
+	Date Created:        	Mon Feb 20 21:00:01 EST 2017
+
+	Name:                	John Smith
+	Account Number:      	123456
+	Original Balance:    	$1,000.00
+	Total Deposits:      	$125.00
+	Total Withdrawals:   	$250.00
+	Current Balance:     	$875.00
+	Date Created:        	Mon Feb 20 21:00:01 EST 2017

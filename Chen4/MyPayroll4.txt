@@ -1,0 +1,48 @@
+	**************** Payroll Report ************************		
+	Name:               Jenny               
+	Course:             1301                
+	Date:               Tue Jan 31 12:34:36 EST 2017
+
+	*********************************************************
+
+	Hours Worked:                      35
+	Hourly Rate:                       10
+	Federal Tax Rate:                  20.00%
+	State Tax Rate:                     7.00%
+	Regular Pay:                      350.00
+	Overtime pay:                       0.00
+	Gross Pay:                        350.00
+	Federal Tax:                       70.00
+	State Tax:                         24.50
+	Net Pay:                          255.50
+
+	*********************************************************   
+	*                                                      *
+	*****************  Have a good day **********************   	
+
+	
+
+	
+
+
+	**************** Payroll Report ************************
+	Name:               Jenny               
+	Course:             1301                
+	Date:               Tue Jan 31 12:32:16 EST 2017
+
+	*********************************************************
+
+	Hours Worked:                      55
+	Hourly Rate:                       10
+	Federal Tax Rate:                  20.00%
+	State Tax Rate:                     7.00%
+	Regular Pay:                      400.00
+	Overtime pay:                     225.00
+	Gross Pay:                        625.00
+	Federal Tax:                      125.00
+	State Tax:                         43.75
+	Net Pay:                          456.25
+
+	*********************************************************   
+	*                                                      *
+	*****************  Have a good day **********************   
